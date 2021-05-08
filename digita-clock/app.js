@@ -1,3 +1,4 @@
+//digital Clock 
 function digitalClock() {
   const timeFormate = document.getElementById("timeFormate");
 
